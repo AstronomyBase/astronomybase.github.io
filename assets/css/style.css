@@ -11,6 +11,16 @@ p {
   font-weight: 800;
 }
 
+a {
+  font-family: "Space Mono", Serif;
+  font-weight: 800;
+}
+
+li {
+  font-family: "Space Mono", Serif;
+  font-weight: 800;
+}
+
 h1 {
   font-family: "Space Mono", Serif;
   font-weight: 900;
