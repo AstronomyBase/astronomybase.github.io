@@ -1,2 +1,2 @@
-# astronomybase.github.io
+# AstronomyBase
 Universe in a Site
