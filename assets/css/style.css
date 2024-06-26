@@ -4,3 +4,29 @@ html {
   overflow-x: hidden;
   transition: opacity 1s ease-in-out;
 }
+
+
+p {
+  font-family: "Space Mono", Serif;
+  font-weight: 800;
+}
+
+h1 {
+  font-family: "Space Mono", Serif;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Space Mono", Serif;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: "Space Mono", Serif;
+  font-weight: 900;
+}
+
+h4 {
+  font-family: "Space Mono", Serif;
+  font-weight: 900;
+}
