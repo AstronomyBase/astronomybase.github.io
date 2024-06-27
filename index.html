@@ -64,6 +64,14 @@ title: Main
     width: 45%;
 }
 
+.title-wrapper {
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+	
 @media (max-width: 768px) {
  h1 {
    font-size: 40px;
@@ -86,10 +94,11 @@ title: Main
 <div class="twinkling"></div>
 <div class="clouds"></div>
 
-<h1 style="color: #cad8ed; font-size: 8.75vw; position: absolute; top: 10%; left: 20%; z-index: 6;">AstronomyBase</h1>
-
-<h2 style="color: #ffffff; position: absolute; top: 30%; left: 20%; z-index: 6;">The Universe in a Website.</h2>
-
+<div class="title-wrapper">
+	<h1 style="color: #cad8ed; font-size: 8.75vw; text-align: left; display: block; z-index: 6;">AstronomyBase</h1>
+	<h2 style="color: #ffffff; text-align: left; display: block; z-index: 6;">The Universe in a Website.</h2>
+</div>
+	
 <button class="btn" style="position: absolute; top: 40%; z-index: 6; left: 50%; -webkit-transform: translateX(-50%); transform: translateX(-50%);">Get Started</button>
 
 
