@@ -1,0 +1,27 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "AstronomyBase",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AstronomyBase",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://astronomybase.github.io/assets/favicon.png",
+      "type": "image/png",
+      "sizes": "666x666"
+    }
+  ],
+  "id": "1DSTBB",
+  "description": "The Universe on a Website.",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui",
+    "window-controls-overlay",
+    "browser"
+  ]
+}
