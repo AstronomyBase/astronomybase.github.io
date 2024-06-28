@@ -59,6 +59,15 @@ title: Learn
   padding: 10px 0;
 }
 
+To wrap the text inside the pages, you can add the following CSS property to the `.page` class:
+```
+.page {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
+}
+  
 .page {
   display: inline-block;
   margin-right: 20px;
@@ -67,6 +76,10 @@ title: Learn
   border: 1px solid #444;
   padding: 10px;
   border-radius: 10px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-all;
 }
 
 .page h3 {
