@@ -59,27 +59,6 @@ title: Learn
   padding: 10px 0;
 }
 
-.page {
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  -ms-word-break: break-all;
-  word-break: break-all;
-}
-  
-To prevent the text from overflowing beyond the pages card, you can add the following CSS property to the `.page` class:
-```
-.page {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding: 10px;
-  border-radius: 10px;
-  box-sizing: border-box;
-}
-```
-The `box-sizing: border-box` property ensures that the padding and border are included in the width and height of the `.page` element, preventing the text from overflowing.
-
-Additionally, you can add the following CSS property to the `.page p` selector to truncate the text and add an ellipsis:
-```
 .page p {
   overflow: hidden;
   text-overflow: ellipsis;
