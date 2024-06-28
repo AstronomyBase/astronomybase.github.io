@@ -77,7 +77,6 @@ title: Learn
 .learn-page {
   background-color: #000000;
   padding: 20px;
-  border: 1px solid #333;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -87,7 +86,7 @@ title: Learn
 }
 
 .pages {
-  overflow-x: auto;
+  overflow-x: scroll;
   white-space: nowrap;
   padding: 10px 0;
 }
@@ -95,7 +94,7 @@ title: Learn
 .page p {
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .page {
@@ -104,17 +103,11 @@ title: Learn
   width: 320px;
   height: 160px;
   background-color: #350085;
-  overflow: hidden;
+  overflow-x: hidden;
   text-overflow: ellipsis;
   padding: 10px;
   border-radius: 10px;
   box-sizing: border-box;
-}
-
-.page p {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .page h3 {
