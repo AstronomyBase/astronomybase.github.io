@@ -1,8 +1,8 @@
 html {
   margin-top: 4em;
   background-color: #000000;
-  overflow-x: hidden;
-  overflow-y: auto !important;
+  /*overflow-x: hidden;
+  overflow-y: auto !important;*/
   transition: opacity 1s ease-in-out;
 }
 
