@@ -1,6 +1,7 @@
 //main.js
 
 
+
 //loadpagesmoothly.js
 var myVar;
 
