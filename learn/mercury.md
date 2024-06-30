@@ -4,7 +4,7 @@ title: Mercury
 ---
 
 # Mercury
-================
+
 
 ## Introduction
 ---------------
