@@ -1,50 +1,68 @@
 ---
-layout: default
+layout: page
 title: Mercury
 ---
 
-Mercury
-
+# Mercury
 ================
 
-Introduction
+## Introduction
+---------------
 
-The planet Mercury is the smallest one in our solar system; its diameter is nearly 4,779 kilometers. Moreover, it is also the closest planet to the sun, at an average distance of about 36 million miles. It has got a thin atmosphere and its surface is heavily cratered.
+Mercury is the smallest planet in our solar system, with a diameter of approximately **4,879 kilometers**. It is also the closest planet to the sun, with an average distance of about **58 million kilometers**. Mercury is a rocky, barren world with a thin atmosphere, and its surface is heavily cratered.
 
-Orbital Characteristics
+### Orbital Characteristics
 
-Orbital Period: 87.97 Earth days
+#### Details
 
-Rotation Period: 58.65 Earth days
+* **Orbital Period:** 87.97 Earth days
+* **Rotation Period:** 58.65 Earth days
+* **Eccentricity:** 0.2056
+* **Semi-major Axis:** 57,909,227 km
 
-Eccentricity: 0.2056
+### Physical Characteristics
 
-Semi-major Axis: 57,909,227 km
+#### Details
 
-Physical Characteristics
+* **Diameter:** 4,879 km
+* **Mass:** 3.3022 x 10^23 kg
+* **Surface Gravity:** 3.71 m/s^2
+* **Composition:** Iron, silicates, and other metals
 
-Diameter: 4,879 km
+### Surface Features
 
-Mass: 3.3022 x 10^23 kg
+#### Details
 
-Surface Gravity: 3.71 m/s^2
+* **Craters:** Mercury's surface is heavily cratered, indicating a geologically inactive surface.
+* **Faults:** Long, linear features that indicate tectonic activity in the past.
+* **Volcanoes:** Several large volcanoes are present on Mercury's surface.
+* **Plains:** Smooth, flat regions that are thought to be the result of volcanic activity.
 
-Composition: Iron, silicates and other metals.
+### Atmosphere
 
-Surface Features
+#### Details
 
-Craters: The surface of Mercury has many craters on it and this suggests that it is geologically inactive.
+* **Composition:** Helium, oxygen, sodium, and other gases
+* **Pressure:** 10^-14 times the pressure of Earth's atmosphere
+* **Temperature:** Ranges from -173°C to 427°C (-279°F to 801°F)
 
-Faults: Long narrow cracks showing past tectonic activity.
+### Exploration
 
-Volcanoes: Some big volcanoes are found on Mercury’s crust.
+#### Missions
 
-Plains: Smooth flat regions were thought to have formed as a result of volcanic activity.
+* **Mariner 10:** The first spacecraft to visit Mercury, in 1974-1975.
+* **MESSENGER:** A NASA spacecraft that orbited Mercury from 2011 to 2015.
+* **BepiColombo:** A joint ESA/JAXA mission that will explore Mercury's magnetosphere and geology, launching in 2024.
 
-Atmosphere
+### Interesting Facts
 
-Composition: Helium, oxygen, sodium and other gases.
+#### Did you know?
 
-Pressure: One hundred quadrillion times less than earth’s atmospheric pressure.
+* **Mercury is tidally locked:** It always shows the same face to the sun.
+* **Mercury has a large iron core:** Taking up about 70% of the planet's mass.
+* **Mercury's surface is extremely hot:** Reaching temperatures of up to 427°C (801°F) during the day.
+* **Mercury has no moons:** It is one of the few planets in the solar system without a natural satellite.
 
-Temperature: -173°C up to 427°C
+### Conclusion
+
+Mercury is a fascinating world that offers many insights into the formation and evolution of the solar system. Its unique composition and surface features make it an important target for scientific study, and its proximity to the sun makes it an ideal location for studying the effects of solar radiation on planetary bodies.
