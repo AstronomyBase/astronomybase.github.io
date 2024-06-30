@@ -4,12 +4,14 @@ layout: default
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/">Home</a></li>
     <li class="breadcrumb-item">
-      {% for ancestor in page.ancestors %}
-        {{ ancestor.title }}/
-      {% endfor %}
-      {{ page.title }}
+      <span class="breadcrumb-trail">
+        <a href="/">Home</a>
+        {% for ancestor in page.ancestors %}
+          /{{ ancestor.title }}
+        {% endfor %}
+        /{{ page.title }}
+      </span>
     </li>
   </ol>
 </nav>
@@ -17,3 +19,10 @@ layout: default
 <div style="text-align: left; padding-left: 15%; padding-right: 15%;">
   {{ content }}
 </div>
+
+
+<style>
+.breadcrumb-trail {
+  display: inline;
+}
+</style>
