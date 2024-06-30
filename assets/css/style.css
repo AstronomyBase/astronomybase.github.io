@@ -180,3 +180,24 @@ h4 {
   background: #4c00ff;
   color: #fff;
 }
+
+.breadcrumb {
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.breadcrumb-item {
+  color: #666;
+  text-decoration: none;
+}
+
+.breadcrumb-item:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+.breadcrumb-item.active {
+  color: #337ab7;
+}
