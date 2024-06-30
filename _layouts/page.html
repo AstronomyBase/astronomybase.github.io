@@ -5,10 +5,12 @@ layout: default
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">Home</a></li>
-    {% for ancestor in page.ancestors %}
-      <li class="breadcrumb-item">{{ ancestor.title }}{% unless ancestor == page.ancestors.last %}/{{ ancestor.title }}{% endunless %}</li>
-    {% endfor %}
-    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    <li class="breadcrumb-item">
+      {% for ancestor in page.ancestors %}
+        {{ ancestor.title }}/
+      {% endfor %}
+      {{ page.title }}
+    </li>
   </ol>
 </nav>
 
