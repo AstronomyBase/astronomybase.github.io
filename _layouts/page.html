@@ -6,7 +6,7 @@ layout: default
     <ol class="breadcrumb">
       <li class="breadcrumb-item"><a href="/">Home</a></li>
       {% for ancestor in page.ancestors %}
-        <li class="breadcrumb-item"><a href="{{ ancestor.url }}">{{ ancestor.title }}</a></li>
+        <li class="breadcrumb-item">{{ ancestor.title }}{% unless ancestor == page.ancestors.last %}/{{ endunless %}</li>
       {% endfor %}
       <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
     </ol>
