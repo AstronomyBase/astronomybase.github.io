@@ -54,6 +54,17 @@ h4 {
 }
 
 
+hr {
+    border: 0;
+    border-top: 10px dotted #007bff;
+    border-radius: 5px;
+    height: 0;
+    width: 80%;
+    margin: 20px auto;
+    background: linear-gradient(90deg, #000000, #007bff, #000000);
+}
+
+
 /* Spinner */
 
 .spinner {
