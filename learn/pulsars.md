@@ -30,16 +30,17 @@ Pulsars are highly magnetised neutron stars thet emit electromagnetic radiation 
 
 #### Details
 
-* **Galaxy Mergers:** Quasars are thought to be triggered by the merger of two galaxies, which leads to the formation of a supermassive black hole.
-* **Accretion Disks:** Quasars are powered by accretion disks around the black hole, which heat up and emit massive amounts of energy.
+* **Unstable Stars** When stars (large ones, like red giants) lose their fuel (hydrogen or heavier elements) they collapse into neutron stars, which is essentially what a pulsar is
 
 ### Exploration
 
 #### Missions
 
-* **Hubble Space Telescope:** Has observed quasars in visible and ultraviolet light.
-* **Chandra X-ray Observatory:** Has observed quasars in X-ray light.
-* **Very Large Array (VLA):** Has observed quasars in radio light.
+* **Parkes Radio Telescope:** Has observed pulsars in radio light.
+* **Arecibo Radio Telescope:** Has observed pulsars in radio light.
+* **Fermi Gamma-Ray Space Telescope:** Has observed pulsars in gamma-ray light.
+* **Chandra X-ray Observatory:** Has observed pulsars in X-ray light.
+* **Hubble Space Telescope:** Has observed pulsars in visible and ultraviolet light.
 
 ### Interesting Facts
 
