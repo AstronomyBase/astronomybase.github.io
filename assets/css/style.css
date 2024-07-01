@@ -53,16 +53,12 @@ h4 {
   color: #ffffff;
 }
 
-
 hr {
-    border: 0;
-    border-top: 4px dotted #7a5cff;
-    border-radius: 2px;
-    height: 0;
-    width: 80%;
-    margin: 20px auto;
+  border: none;
+  border-bottom: 5px dotted #7a5cff; /* very light gray color */
+  max-width: 100%;
+  overflow: hidden;
 }
-
 
 /* Spinner */
 
